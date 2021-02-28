@@ -26,6 +26,6 @@ gcc 9.3.0
   * client:17.2KB  
 ### ファイル構成
 SAS-2-- 32bit(認証情報を32bitとしたSAS-2プログラム)---client_data(被認証側のデータ保存場所)  
-     |_ 64bit                                    |_ server_data(認証側のデータ保存場所)  
-     |_ 256bit                                   |_ exp(SAS-2の評価実験用ソース)  
+      |_ 64bit                                    |_ server_data(認証側のデータ保存場所)  
+      |_ 256bit                                   |_ exp(SAS-2の評価実験用ソース)  
                                                  |_ source(SAS-2のソース)  
